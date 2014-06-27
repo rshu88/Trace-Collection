@@ -1,0 +1,50 @@
+add device 1: /dev/input/event0
+  name:     "qwerty2"
+could not get driver version for /dev/input/mouse0, Not a typewriter
+could not get driver version for /dev/input/mice, Not a typewriter
+[     730.921257] /dev/input/event0: 0003 0000 00000176
+[     730.921387] /dev/input/event0: 0003 0001 0000044d
+[     730.921461] /dev/input/event0: 0001 014a 00000001
+[     730.921677] /dev/input/event0: 0000 0000 00000000
+[     730.921737] /dev/input/event0: 0001 014a 00000000
+[     730.921811] /dev/input/event0: 0000 0000 00000000
+[     735.843458] /dev/input/event0: 0003 0000 00000066
+[     735.843528] /dev/input/event0: 0003 0001 00000329
+[     735.843569] /dev/input/event0: 0001 014a 00000001
+[     735.843602] /dev/input/event0: 0000 0000 00000000
+[     735.860420] /dev/input/event0: 0001 014a 00000000
+[     735.860444] /dev/input/event0: 0000 0000 00000000
+[     738.524247] /dev/input/event0: 0003 0000 0000009b
+[     738.524318] /dev/input/event0: 0003 0001 000004c2
+[     738.524360] /dev/input/event0: 0001 014a 00000001
+[     738.524392] /dev/input/event0: 0000 0000 00000000
+[     738.524435] /dev/input/event0: 0001 014a 00000000
+[     738.524458] /dev/input/event0: 0000 0000 00000000
+[     741.186960] /dev/input/event0: 0003 0000 00000110
+[     741.187036] /dev/input/event0: 0003 0001 00000342
+[     741.187082] /dev/input/event0: 0001 014a 00000001
+[     741.187115] /dev/input/event0: 0000 0000 00000000
+[     741.204381] /dev/input/event0: 0001 014a 00000000
+[     741.204443] /dev/input/event0: 0000 0000 00000000
+[     743.987330] /dev/input/event0: 0003 0000 0000009c
+[     743.987396] /dev/input/event0: 0003 0001 000004de
+[     743.987437] /dev/input/event0: 0001 014a 00000001
+[     743.987466] /dev/input/event0: 0000 0000 00000000
+[     744.004106] /dev/input/event0: 0001 014a 00000000
+[     744.004176] /dev/input/event0: 0000 0000 00000000
+[     746.911986] /dev/input/event0: 0003 0000 0000005f
+[     746.912052] /dev/input/event0: 0003 0001 000003fc
+[     746.912093] /dev/input/event0: 0001 014a 00000001
+[     746.912125] /dev/input/event0: 0000 0000 00000000
+[     746.912171] /dev/input/event0: 0001 014a 00000000
+[     746.912193] /dev/input/event0: 0000 0000 00000000
+[     750.154368] /dev/input/event0: 0003 0000 000000a1
+[     750.154440] /dev/input/event0: 0003 0001 000004ce
+[     750.154518] /dev/input/event0: 0001 014a 00000001
+[     750.154555] /dev/input/event0: 0000 0000 00000000
+[     750.154599] /dev/input/event0: 0001 014a 00000000
+[     750.154621] /dev/input/event0: 0000 0000 00000000
+[     751.667687] /dev/input/event0: 0001 014a 00000001
+[     751.667759] /dev/input/event0: 0000 0000 00000000
+[     751.684329] /dev/input/event0: 0001 014a 00000000
+[     751.684392] /dev/input/event0: 0000 0000 00000000

@@ -1,0 +1,18 @@
+add device 1: /dev/input/event0
+  name:     "qwerty2"
+could not get driver version for /dev/input/mouse0, Not a typewriter
+could not get driver version for /dev/input/mice, Not a typewriter
+[     508.010275] /dev/input/event0: 0001 001e 00000001
+[     508.112615] /dev/input/event0: 0001 001e 00000000
+[     509.421281] /dev/input/event0: 0001 0030 00000001
+[     509.557607] /dev/input/event0: 0001 0030 00000000
+[     510.766057] /dev/input/event0: 0001 002e 00000001
+[     510.901206] /dev/input/event0: 0001 002e 00000000
+[     511.818343] /dev/input/event0: 0001 0020 00000001
+[     511.956216] /dev/input/event0: 0001 0020 00000000
+[     512.925267] /dev/input/event0: 0001 0012 00000001
+[     513.074057] /dev/input/event0: 0001 0012 00000000
+[     513.859294] /dev/input/event0: 0001 0021 00000001
+[     513.995628] /dev/input/event0: 0001 0021 00000000
+[     514.812007] /dev/input/event0: 0001 0022 00000001
+[     514.930210] /dev/input/event0: 0001 0022 00000000

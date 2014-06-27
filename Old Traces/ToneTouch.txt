@@ -1,0 +1,17 @@
+add device 1: /dev/input/event1
+  name:     "gpio-keys"
+add device 2: /dev/input/event2
+  name:     "tegra-kbc"
+add device 3: /dev/input/event3
+  name:     "atmel-maxtouch"
+add device 4: /dev/input/event0
+  name:     "lid_input"
+[    3142.558158] /dev/input/event3: 0003 0039 00000000
+[    3142.558269] /dev/input/event3: 0003 0030 00000060
+[    3142.558296] /dev/input/event3: 0003 003a 00000060
+[    3142.558326] /dev/input/event3: 0003 0035 00000477
+[    3142.558355] /dev/input/event3: 0003 0036 000001e3
+[    3142.558383] /dev/input/event3: 0000 0002 00000000
+[    3142.558406] /dev/input/event3: 0000 0000 00000000
+[    3142.607495] /dev/input/event3: 0000 0002 00000000
+[    3142.607592] /dev/input/event3: 0000 0000 00000000
